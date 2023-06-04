@@ -46,6 +46,11 @@ layout: default
             {%- include news.html %}
           {%- endif %}
 
+          <!-- Other -->
+          {% if page.other -%}
+            {%- include other.html %}
+          {%- endif %}
+
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>

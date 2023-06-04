@@ -14,6 +14,7 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+other: true  # includes social icons at the bottom of the page
 ---
 
 I am a first-year Ph.D. student in the Department of Computer Science at the Johns Hopkins University. I am a member of the [Intuitive Computing Laboratory](https://intuitivecomputing.github.io/), which is affiliated with the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/) and [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/). I am advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/) and [Dr. Anqi Liu](https://anqiliu-ai.github.io/).
