@@ -52,10 +52,16 @@ layout: default
             {%- include teaching.html %}
           {%- endif %}
 
-          <!-- Teaching -->
+          <!-- Awards -->
           {% if page.awards -%}
-            <h3 style="margin-top: 10px">Awards</h3>
+            <h3 style="margin-top: 20px">Awards</h3>
             {%- include awards.html %}
+          {%- endif %}
+
+          <!-- Service -->
+          {% if page.service -%}
+          <h3 style="margin-top: 20px">Services</h3>
+          {%- include service.html %}
           {%- endif %}
 
           <!-- Latest posts -->
@@ -66,7 +72,7 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h3 style="margin-top: 30px">Publications</h3>
+            <h3 style="margin-top: 20px">Publications</h3>
             {%- include selected_papers.html %}
           {%- endif %}
 
