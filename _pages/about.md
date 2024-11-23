@@ -24,4 +24,4 @@ I am a third-year Ph.D. student in the Department of Computer Science at the Joh
 
 My research focuses on human-AI trust and reliance in assisted decision-making. More specifically, I am interested in ways to help users calibrate their reliance and trust in the AI for more optimal human-AI collaboration. 
 
-My CV may be viewed [here](https://github.com/shiye-cao/shiye-cao.github.io/blob/master/assets/pdf/shiye-cao-cv.pdf).
+My CV may be viewed [here](https://shiye-cao.github.io/assets/pdf/shiye-cao-cv.pdf).
