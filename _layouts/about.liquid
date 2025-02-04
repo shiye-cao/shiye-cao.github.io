@@ -48,6 +48,24 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Teaching -->
+    {% if page.teaching %}
+      <h3 style="margin-top: 30px">Teaching Experience</h3>
+      {% include teaching.liquid %}
+    {% endif %}
+
+    <!-- Awards -->
+    {% if page.awards %}
+      <h3 style="margin-top: 30px">Awards</h3>
+      {% include awards.liquid %}
+    {% endif %}
+
+    <!-- Service -->
+    {% if page.service %}
+      <h3 style="margin-top: 30px">Services</h3>
+      {% include service.liquid %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
