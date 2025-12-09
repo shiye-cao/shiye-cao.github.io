@@ -52,16 +52,16 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Service -->
-    {% if page.service %}
-      <h3 style="margin-top: 30px">Services</h3>
-      {% include service.liquid %}
-    {% endif %}
-
     <!-- Teaching -->
     {% if page.teaching %}
       <h3 style="margin-top: 30px">Teaching Experience</h3>
       {% include teaching.liquid %}
+    {% endif %}
+
+    <!-- Service -->
+    {% if page.service %}
+      <h3 style="margin-top: 30px">Services</h3>
+      {% include service.liquid %}
     {% endif %}
 
     <!-- Awards -->
