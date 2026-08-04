@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science at the Johns Hopkins University, advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/) and [Dr. Anqi Liu](https://anqiliu-ai.github.io/). My research aims to develop social robots capable of providing long-term, personalized support for people. Toward this goal, I enhance the social capabilities of robots to more closely emulate natural human-human interactions and empower stakeholders (i.e., caregivers) to co-design personalized and meaningful interactions with AI. To evaluate the real-world effectiveness of social robots as long-term supports, I design, develop, and deploy social robots in the homes of preschool children to foster early language development. Through these long-term, in-home deployments, I investigate how robots can sustain engagement, personalize their behaviors, and integrate into family routines to meaningfully support early language development in children with diverse needs and capabilities. 
+I am a Ph.D. candidate in the Department of Computer Science at Johns Hopkins University, co-advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/) and [Dr. Anqi Liu](https://anqiliu-ai.github.io/). 
+
+My research centers on building social robots that can provide long-term, personalized support in people's everyday lives. Toward this goal, I strengthen robots' conversational capabilities to make interactions feel more natural. I build tools that let domain experts and end users directly shape robot behavior for more meaningful interactions. To test these ideas in the real world, I design, develop, and deploy generative AI–powered social robots in homes, studying how robots can support early language development, sustain engagement, and fit into family routines for children with diverse needs and capabilities.
+
+My past work on human-AI interaction examined how factors like uncertainty communication and time pressure shape people's reliance on AI during assisted decision-making.
 
 My CV may be viewed [here](https://shiye-cao.github.io/assets/pdf/shiye-cao-cv.pdf).
