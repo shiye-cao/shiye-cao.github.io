@@ -48,8 +48,12 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h3 style="margin-top: 30px">Selected Publications</h3>
-      <p>See full publication list <a href="{{ '/publications/' | relative_url }}">here</a>.</p>
+      <h3 style="margin-top: 30px">
+        Selected Publications
+        <small style="font-size: 0.6em; font-weight: normal; margin-left: 0.75rem;">
+          (see full publication list <a href="{{ '/publications/' | relative_url }}">here</a>)
+        </small>
+      </h3>
       {% include selected_papers.liquid %}
     {% endif %}
 
