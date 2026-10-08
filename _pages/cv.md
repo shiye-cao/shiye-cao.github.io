@@ -1,11 +1,12 @@
 ---
-layout: cv
+layout: null
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav: true
+nav_order: 3
+nav_url: /assets/pdf/shiye-cao-cv.pdf
 ---
+<!doctype html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url={{ page.nav_url | relative_url }}">
+<link rel="canonical" href="{{ page.nav_url | relative_url }}">

@@ -20,7 +20,6 @@ email: shiyecao@cs.jhu.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: shiye-sally-cao-a0b394142 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -31,7 +30,8 @@ email: shiyecao@cs.jhu.edu # your email address
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: rMYW55AAAAAJ # your Google Scholar ID
-cv_url: /assets/pdf/shiye-cao-cv.pdf # link to your CV (shows a CV icon)
+linkedin_username: shiye-sally-cao-a0b394142 # your LinkedIn user name
+# cv_url: /assets/pdf/shiye-cao-cv.pdf # link to your CV (shows a CV icon)
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
