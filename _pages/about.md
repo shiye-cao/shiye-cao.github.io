@@ -30,7 +30,7 @@ latest_posts:
 
 I am a Ph.D. candidate in the Department of Computer Science at Johns Hopkins University, co-advised by [Dr. Chien-Ming Huang](https://www.cs.jhu.edu/~cmhuang/) and [Dr. Anqi Liu](https://anqiliu-ai.github.io/). 
 
-My research centers on developing conversational capabilities that enable robots to communicate naturally, effectively, and robustly as they work alongside people in their daily lives. Toward this goal, I build tools to empower end-users and stakeholders to specify meaningful interaction, improve human-robot conversational dynamics, and study conversational breakdown management. To test these ideas in the real world, I design, develop, and deploy generative AI–powered social robots in homes, studying how robots can support early language development, sustain engagement, and fit into family routines for children with diverse needs and capabilities.
+My research centers on developing conversational capabilities that enable robots to communicate naturally, effectively, and robustly as they work alongside people in their daily lives. Toward this goal, I empower stakeholders to author meaningful conversational activities, improve human-robot conversational dynamics, and repair conversational breakdowns. To test these ideas in the real world, I design, develop, and deploy generative AI–powered social robots in homes, studying how robots can support early language development, sustain engagement, and fit into family routines for children with diverse needs and capabilities.
 
 My past work on human-AI interaction examined how factors like uncertainty communication and time pressure shape people's reliance on AI during assisted decision-making.
 
