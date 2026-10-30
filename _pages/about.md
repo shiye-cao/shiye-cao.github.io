@@ -35,5 +35,5 @@ My research centers on developing conversational capabilities that enable robots
 My past work on human-AI interaction examined how factors like uncertainty communication and time pressure shape people's reliance on AI during assisted decision-making.
 
 <div style="margin: 1.5rem 0 0; padding: 0.75rem 1rem; background: rgba(232,134,42,0.08); border-radius: 4px;">
-  📣 I am on the job market for tenure-track faculty and postdoctoral positions, with start dates in Summer or Fall 2027!
+  📣 I am on the job market for tenure-track faculty and postdoctoral positions in the U.S. with start dates beginning Fall 2027!
 </div>
